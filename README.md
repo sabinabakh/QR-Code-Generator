@@ -10,7 +10,7 @@ A QR code generator built using npm packages. This tool allows users to easily c
 
 Navigate to the root of a project directory run the following commands in the terminal:
     
-    ``` sh
-    npm install
-    node index.js
-    ```  
+``` sh
+npm install
+node index.js
+```  
